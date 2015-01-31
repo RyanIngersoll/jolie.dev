@@ -125,8 +125,8 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 object-non-visible" data-animation-effect="fadeIn">
-							<h1 class="text-center"> <span>Coming Soon</span></h1>
-							<p class="lead text-center">Our current project is an innovative solution to both the new paradigm of lower oil prices and the rising inflationary pressures facing your retirement future</p>
+							<h1 style="font-size: 80%:" class="text-center">What Do You Want Your Future To Be?</h1>
+							<p class="lead text-center">We offer exclusive....</p>
 						</div>
 					</div>
 				</div>
@@ -162,12 +162,8 @@
 
 						<!-- isotope filters start -->
 						<div class="filters text-center">
-							<ul class="nav nav-pills">
-								<li class="active"><a href="#" data-filter="*">All</a></li>
-								<li><a href="#" data-filter=".web-design">Web design</a></li>
-								<li><a href="#" data-filter=".app-development">App development</a></li>
-								<li><a href="#" data-filter=".site-building">Site building</a></li>
-							</ul>
+							<h1>Current Project</h1>
+							<p>Buda Well #1</p>
 						</div>
 						<!-- isotope filters end -->
 
