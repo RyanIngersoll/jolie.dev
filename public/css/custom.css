@@ -7,3 +7,46 @@ Created:November 2014
 License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
 File Description: Place here your custom CSS styles
 */
+
+@media only screen and (max-width:768px) {
+  #future{
+  	font-size: 140% !important;
+  }
+  #future2{
+  	text-align: center !important;
+  }
+  #hidepic1{
+  	display: none !important;
+  }
+  #hidepic2{
+  	display: none !important;
+  }
+  #hidepic3{
+  	display: none !important;
+  }
+  #hidepic4{
+  	display: none !important;
+  }
+  #hidepic5{
+  	display: none !important;
+  }
+  #hidepic6{
+  	display: none !important;
+  }
+  #hidepic7{
+  	display: none !important;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

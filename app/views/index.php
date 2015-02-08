@@ -38,7 +38,7 @@
 	<body class="no-trans">
 		<!-- scrollToTop -->
 		<!-- ================ -->
-		<div class="scrollToTop"><i class="icon-up-open-big"></i></div>
+		<!-- <div class="scrollToTop"><i class="icon-up-open-big"></i></div> -->
 
 		<!-- header start -->
 		<!-- ================ --> 
@@ -57,16 +57,21 @@
 							<!-- name-and-slogan -->
 							<div class="site-name-and-slogan smooth-scroll">
 								<div class="site-name"><a href="#banner">SRI DIVERSIFIED CAPITAL, LLC</a></div>
-								<div class="site-slogan">Inflation Protection Specialists</div>
+								<a href="tel:2108446677" style="color: white !important;font-size:120%; margin-top: 20px;">(210)-834-4232&nbsp&nbsp</a>
+								<a href="mailto:sandy@sridiversified.com?Subject=Invest%20in%20Your%20Future" target="_top" id="email" style="font-size:150%; color:white !important;">
+	                        			<i class="fa fa-envelope" style="color:white">
+	                            
+	                        	</i>  EMAIL</a>
 							</div>
-
+							
 						</div>
 						<!-- header-left end -->
-
+							
 					</div>
 					<div class="col-md-8">
 
 						<!-- header-right start -->
+						
 						<!-- ================ -->
 						<div class="header-right clearfix">
 
@@ -80,14 +85,14 @@
 									<div class="container-fluid">
 
 										<!-- Toggle get grouped for better mobile display -->
-										<div class="navbar-header">
+										<!-- <div class="navbar-header">
 											<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
 												<span class="sr-only">Toggle navigation</span>
 												<span class="icon-bar"></span>
 												<span class="icon-bar"></span>
 												<span class="icon-bar"></span>
 											</button>
-										</div>
+										</div> -->
 
 										<!-- Collect the nav links, forms, and other content for toggling -->
 										<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
@@ -125,8 +130,8 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 object-non-visible" data-animation-effect="fadeIn">
-							<h1 style="font-size: 80%:" class="text-center">What Do You Want Your Future To Be?</h1>
-							<p class="lead text-center">We offer exclusive....</p>
+							<h1 id= "future" style="font-weight: 100; font-size: 80%:" class="text-center">What Will <span>YOUR</span> Retirement Future Look Like?</h1>
+							<p id="future2" class="lead text-center" style = "font-weight: 100; text-align: left !important;">SRI Capital is a leading risk management consultant for institutional  and high-net-worth investors who are seeking to diversify their portfolios from the growing risks in today's capital markets. Our top priority is to help our clients achieve their goals and needs while reducing exposure to the inflation and interest rate risks inherent in the market. </p>
 						</div>
 					</div>
 				</div>
@@ -162,8 +167,10 @@
 
 						<!-- isotope filters start -->
 						<div class="filters text-center">
-							<h1>Current Project</h1>
-							<p>Buda Well #1</p>
+							<h1 style="font-weight: 100;">Inflation Protected Asset Management</h1>
+							<p></p><br>
+							<p></p>
+
 						</div>
 						<!-- isotope filters end -->
 
@@ -172,13 +179,10 @@
 							<div class="col-sm-6 col-md-3 isotope-item web-design">
 								<div class="image-box">
 									<div class="overlay-container">
-										<img src="images/portfolio-1.jpg" alt="">
-										<a class="overlay" data-toggle="modal" data-target="#project-1">
-											<i class="fa fa-search-plus"></i>
-											<span>Web Design</span>
-										</a>
+										<img src="images/sri1.png" alt="">
+										
 									</div>
-									<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-1">Project Title</a>
+									<!-- <a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-1">Project Title</a> -->
 								</div>
 								<!-- Modal -->
 								<div class="modal fade" id="project-1" tabindex="-1" role="dialog" aria-labelledby="project-1-label" aria-hidden="true">
@@ -212,13 +216,10 @@
 							<div class="col-sm-6 col-md-3 isotope-item app-development">
 								<div class="image-box">
 									<div class="overlay-container">
-										<img src="images/portfolio-2.jpg" alt="">
-										<a class="overlay" data-toggle="modal" data-target="#project-2">
-											<i class="fa fa-search-plus"></i>
-											<span>App Development</span>
-										</a>
+										<img src="images/sri2.png" alt="">
+										
 									</div>
-									<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-2">Project Title</a>
+									
 								</div>
 								<!-- Modal -->
 								<div class="modal fade" id="project-2" tabindex="-1" role="dialog" aria-labelledby="project-2-label" aria-hidden="true">
@@ -252,13 +253,10 @@
 							<div class="col-sm-6 col-md-3 isotope-item web-design">
 								<div class="image-box">
 									<div class="overlay-container">
-										<img src="images/portfolio-3.jpg" alt="">
-										<a class="overlay" data-toggle="modal" data-target="#project-3">
-											<i class="fa fa-search-plus"></i>
-											<span>Web Design</span>
-										</a>
+										<img src="images/sri3.png" alt="">
+										
 									</div>
-									<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-3">Project Title</a>
+									
 								</div>
 								<!-- Modal -->
 								<div class="modal fade" id="project-3" tabindex="-1" role="dialog" aria-labelledby="project-3-label" aria-hidden="true">
@@ -292,13 +290,10 @@
 							<div class="col-sm-6 col-md-3 isotope-item site-building">
 								<div class="image-box">
 									<div class="overlay-container">
-										<img src="images/portfolio-4.jpg" alt="">
-										<a class="overlay" data-toggle="modal" data-target="#project-4">
-											<i class="fa fa-search-plus"></i>
-											<span>Site Building</span>
-										</a>
+										<img src="images/sri5.png" alt="">
+										
 									</div>
-									<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-4">Project Title</a>
+									
 								</div>
 								<!-- Modal -->
 								<div class="modal fade" id="project-4" tabindex="-1" role="dialog" aria-labelledby="project-4-label" aria-hidden="true">
@@ -332,13 +327,10 @@
 							<div class="col-sm-6 col-md-3 isotope-item app-development">
 								<div class="image-box">
 									<div class="overlay-container">
-										<img src="images/portfolio-5.jpg" alt="">
-										<a class="overlay" data-toggle="modal" data-target="#project-5">
-											<i class="fa fa-search-plus"></i>
-											<span>App Development</span>
-										</a>
+										<img src="images/sri6.png" alt="">
+										
 									</div>
-									<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-5">Project Title</a>
+									
 								</div>
 								<!-- Modal -->
 								<div class="modal fade" id="project-5" tabindex="-1" role="dialog" aria-labelledby="project-5-label" aria-hidden="true">
@@ -369,16 +361,13 @@
 								<!-- Modal end -->
 							</div>
 							
-							<div class="col-sm-6 col-md-3 isotope-item web-design">
+							<div id="hidepic1" class="col-sm-6 col-md-3 isotope-item web-design">
 								<div class="image-box">
 									<div class="overlay-container">
-										<img src="images/portfolio-6.jpg" alt="">
-										<a class="overlay" data-toggle="modal" data-target="#project-6">
-											<i class="fa fa-search-plus"></i>
-											<span>Web Design</span>
-										</a>
+										<img src="images/sri7.jpeg" alt="">
+										
 									</div>
-									<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-6">Project Title</a>
+									
 								</div>
 								<!-- Modal -->
 								<div class="modal fade" id="project-6" tabindex="-1" role="dialog" aria-labelledby="project-6-label" aria-hidden="true">
@@ -409,16 +398,13 @@
 								<!-- Modal end -->
 							</div>
 							
-							<div class="col-sm-6 col-md-3 isotope-item site-building">
+							<div id="hidepic2" class="col-sm-6 col-md-3 isotope-item site-building">
 								<div class="image-box">
 									<div class="overlay-container">
-										<img src="images/portfolio-7.jpg" alt="">
-										<a class="overlay" data-toggle="modal" data-target="#project-7">
-											<i class="fa fa-search-plus"></i>
-											<span>Site Building</span>
-										</a>
+										<img src="images/sri8.png" alt="">
+										
 									</div>
-									<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-7">Project Title</a>
+									
 								</div>
 								<!-- Modal -->
 								<div class="modal fade" id="project-7" tabindex="-1" role="dialog" aria-labelledby="project-7-label" aria-hidden="true">
@@ -449,16 +435,13 @@
 								<!-- Modal end -->
 							</div>
 							
-							<div class="col-sm-6 col-md-3 isotope-item web-design">
+							<div id="hidepic3" class="col-sm-6 col-md-3 isotope-item web-design">
 								<div class="image-box">
 									<div class="overlay-container">
-										<img src="images/portfolio-8.jpg" alt="">
-										<a class="overlay" data-toggle="modal" data-target="#project-8">
-											<i class="fa fa-search-plus"></i>
-											<span>Web Design</span>
-										</a>
+										<img src="images/sri18.jpeg" alt="">
+										
 									</div>
-									<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-8">Project Title</a>
+									
 								</div>
 								<!-- Modal -->
 								<div class="modal fade" id="project-8" tabindex="-1" role="dialog" aria-labelledby="project-8-label" aria-hidden="true">
@@ -489,16 +472,13 @@
 								<!-- Modal end -->
 							</div>
 
-							<div class="col-sm-6 col-md-3 isotope-item web-design">
+							<div id="hidepic4" class="col-sm-6 col-md-3 isotope-item web-design">
 								<div class="image-box">
 									<div class="overlay-container">
-										<img src="images/portfolio-9.jpg" alt="">
-										<a class="overlay" data-toggle="modal" data-target="#project-9">
-											<i class="fa fa-search-plus"></i>
-											<span>Web Design</span>
-										</a>
+										<img src="images/sri9.png" alt="">
+										
 									</div>
-									<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-9">Project Title</a>
+									
 								</div>
 								<!-- Modal -->
 								<div class="modal fade" id="project-9" tabindex="-1" role="dialog" aria-labelledby="project-9-label" aria-hidden="true">
@@ -529,16 +509,13 @@
 								<!-- Modal end -->
 							</div>
 
-							<div class="col-sm-6 col-md-3 isotope-item site-building">
+							<div id="hidepic5" class="col-sm-6 col-md-3 isotope-item site-building">
 								<div class="image-box">
 									<div class="overlay-container">
-										<img src="images/portfolio-10.jpg" alt="">
-										<a class="overlay" data-toggle="modal" data-target="#project-10">
-											<i class="fa fa-search-plus"></i>
-											<span>Site Building</span>
-										</a>
+										<img src="images/sri15.jpeg" alt="">
+										
 									</div>
-									<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-10">Project Title</a>
+									
 								</div>
 								<!-- Modal -->
 								<div class="modal fade" id="project-10" tabindex="-1" role="dialog" aria-labelledby="project-10-label" aria-hidden="true">
@@ -569,16 +546,13 @@
 								<!-- Modal end -->
 							</div>
 
-							<div class="col-sm-6 col-md-3 isotope-item web-design">
+							<div id="hidepic6" class="col-sm-6 col-md-3 isotope-item web-design">
 								<div class="image-box">
 									<div class="overlay-container">
-										<img src="images/portfolio-11.jpg" alt="">
-										<a class="overlay" data-toggle="modal" data-target="#project-11">
-											<i class="fa fa-search-plus"></i>
-											<span>Web Design</span>
-										</a>
+										<img src="images/sri16.jpeg" alt="">
+										
 									</div>
-									<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-11">Project Title</a>
+									
 								</div>
 								<!-- Modal -->
 								<div class="modal fade" id="project-11" tabindex="-1" role="dialog" aria-labelledby="project-11-label" aria-hidden="true">
@@ -609,16 +583,13 @@
 								<!-- Modal end -->
 							</div>
 
-							<div class="col-sm-6 col-md-3 isotope-item app-development">
+							<div id="hidepic7" class="col-sm-6 col-md-3 isotope-item app-development">
 								<div class="image-box">
 									<div class="overlay-container">
-										<img src="images/portfolio-12.jpg" alt="">
-										<a class="overlay" data-toggle="modal" data-target="#project-12">
-											<i class="fa fa-search-plus"></i>
-											<span>App Development</span>
-										</a>
+										<img src="images/sri17.jpeg" alt="">
+										
 									</div>
-									<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-12">Project Title</a>
+									
 								</div>
 								<!-- Modal -->
 								<div class="modal fade" id="project-12" tabindex="-1" role="dialog" aria-labelledby="project-12-label" aria-hidden="true">
@@ -654,7 +625,7 @@
 					
 					</div>
 				</div>
-			</div> -->
+			</div> 
 		</div>
 		<!-- section end -->
 
@@ -662,14 +633,20 @@
 		<!-- ================ -->
 		<div class="section translucent-bg bg-image-2 pb-clear">
 			<div class="container object-non-visible" data-animation-effect="fadeIn">
-				<h1 id="clients" class="title text-center">About US</h1>
-				<p>Cheesy feet say cheese feta. Bavarian bergkase camembert de normandie caerphilly mascarpone stinking bishop cheddar bavarian bergkase stinking bishop. Brie chalk and cheese cow the big cheese rubber cheese edam boursin caerphilly. Rubber cheese cheesy feet roquefort everyone loves chalk and cheese bocconcini.
+				
+				<p style="font-size: 150%; text-align: center;">A Letter From the President and CEO, Frank Ingersoll</p><br><br>
 
-Squirty cheese caerphilly pecorino. Cheddar edam cheesy feet halloumi cheeseburger cheese slices port-salut monterey jack. Cow macaroni cheese cheesy grin cheese and biscuits manchego emmental mascarpone swiss. Cheesy grin.
+<p>As a consultant to high net worth investors, it is my fiduciary responsibility to make sure you are receiving sound wisdom and education as the foundation for managing your wealth.  This means understanding the true meaning of risk diversification when it comes to the Eagle Ford.  I am not just talking about diversification among various asset classes in the traditional sense.  The most critical aspect that many don't yet understand is that to be truly diversified is to build protection against the two biggest enemies of wealth building, inflation and taxes.<br><br>
 
-Who moved my cheese caerphilly cheese on toast. Brie dolcelatte halloumi taleggio rubber cheese bavarian bergkase taleggio stinking bishop. Cottage cheese gouda bocconcini fromage say cheese pecorino lancashire the big cheese. Smelly cheese cheese slices stilton danish fontina taleggio queso feta cheese slices. When the cheese comes out everybody's happy boursin jarlsberg babybel.
+My desire is to help you build a defensive portfolio against these elements to grow your wealth through the incredible benefits allocated to oil and gas drilling interests.  I have developed this website to further help you understand how the game has changed from the old wildcatting days of vertical drilling.  You will see how horizontal drilling has transformed the Eagle Ford into a low risk investment that can dramatically improve portfolio performance.  Please enjoy the content and feel free to contact me for more information.<br><br> 
 
-Mozzarella cheddar everyone loves. Fromage frais smelly cheese hard cheese edam macaroni cheese smelly cheese melted cheese goat. Feta manchego fondue roquefort blue castello cheesy grin st. agur blue cheese cheese triangles. Paneer airedale dolcelatte pepper jack croque monsieur boursin stilton the big cheese. Cut the cheese macaroni cheese queso mascarpone.</p>
+
+
+Sincerely,<br><br>
+
+ 
+
+Frank (Sandy) Ingersoll</p>
 				
 							
 							
@@ -699,8 +676,17 @@ Mozzarella cheddar everyone loves. Fromage frais smelly cheese hard cheese edam 
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
-						<h1 class="text-center">SRI DIVERSIFIED CAPITAL, LLC</h1>
+						<h1 style="font-weight:100 !important;" class="text-center">SRI DIVERSIFIED CAPITAL, LLC</h1>
+						
 					</div>
+
+					<div class="text-center">
+						<a class="text-center" href="tel:2108446677" style="text-align: center !important; color: white !important;font-size:120%; margin-top: 20px;">(210)-834-4232&nbsp&nbsp</a><br>
+									<a href="mailto:sandy@sridiversified.com?Subject=Invest%20in%20Your%20Future" target="_top" id="email" style="font-size:150%; text-align: center !important; color:white !important;">
+		                        			<i class="fa fa-envelope" style="color:white">
+		                            
+		                        	</i>&nbspEMAIL</a>
+		              </div>
 				</div>
 			</div>
 		</div>
